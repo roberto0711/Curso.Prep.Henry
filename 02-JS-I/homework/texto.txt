@@ -1,0 +1,10 @@
+VARIABLES: las variables son datos que se asigan mediante palabras que dependiendo el lenguaje de programacion varian, esta pueden ser tener un valor y un nombre que las identifica, se usan para almacenar algun tipo de dato que sera usado.
+vamos a suponer que tenemos una caja de carton en la cual queremos guardar algo, eso que se guarda seria un dato que dependiendo de su tipo puede ser un numero, string(texto),valor boleano, si es verdadeo(true) o falso (false), etc.. ese dato almacenado puede ser usado, modificado segun lo que se nesecite es por eso que se diece VARIABLE.
+
+STRING: los String son tipos de datos de texto o carcateres se usan encerrados ente ""(comillas dobles) ,''(comillas simples)
+
+FUNCIONES: son pedasos de codigo que realizan algo y retornan un valor, se usan en los lenguajes de programacion para evitar estar escribiendo codigo repetido.Estas pueden recibir un argumento o parametro para poder trabajar en conjunto y de esta manera se puede emplear esta funcion dependiendo del argumento, cuando se ejecuta la funcion empleando o no argumentos esto realiza algo y puede devolver o no lo que realizo, si una funcion realizo algo a eso de denomina return.
+
+DECLARACIONES: en los lenguajes de programacion se dice que son declaraciones cuando se indican el tipo de dato que va tener una variable, por ejemplo variables tipo String, tipo BOLEANOS, tipo Enteras.
+
+VALORES BOLEANOS: los valores boleanos devuelven dos tipos de respuesta verdadeo(true) o falso (false) se usan para determinar una accion a seguir dependiendo de su valor.
