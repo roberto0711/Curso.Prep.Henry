@@ -1,0 +1,12 @@
+FOR: El ciclo for es una estructura repetitiva que se va a ejecutar una cantidad de veces segun una condicion, es decir si en un codigo queremos que cierta accion se realize una cantidad de veces y para evitar copiar ese accion tantas veces se emplea el ciclo FOR.
+Sintaxis: 
+for(var i=0;i<10;i++){
+    //accion
+}
+Se inicia el ciclo con la palabra reservada (for) entre parentesis se establece la condicion declarando, iniciando y asignando una variable var i = 0, se establece la cantidad de veces que nesecitamos que se repita i<10, se incrementa o decrementa la variable i tantas veces como lo impone la condicion anterior. Cada vez que se evalue la condicion de la variable i se van a ejecutar las acciones establecidas en los {}, finalizada esas acciones se romple el ciclo for se sale de el mismo.
+
+OPERADORES LOGICOS  &&(and), ||(or), !(not)
+Estos operadores evaluan una condicion y devuelven un valor booleano true o false.
+&&(and) evalua si las expresiones son verdadera en caso que ambas los sean devuelve true si una o las 2 son falsas devuelve false.
+||(or) evalua si cumple una u otra expresion.
+!(not) devuelve el valor booleano contrario a la expersion. 
