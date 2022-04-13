@@ -1,0 +1,1 @@
+Array: Se puede definir a los Array como un contenedor de distintos tipos de datos en los que se pueden almacenar textos,numeros,valoeres booleanos,otros array.
