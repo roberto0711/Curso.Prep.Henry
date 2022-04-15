@@ -1,0 +1,9 @@
+Objetos: Es una estructura de codigo en la que puede almacenar datos de cualquier tipo, funciones ,array, etc.. en esta estructura los datos reciben el nombre de propiedades que atravez de (:) se le asigna un valor, para iterar atravez de ellos se puede hacer atravez de sus propiedades tambien llamados key que son asiganos un valor o value.si sintaxis es declarar una variable con un nombre asignando su contenido con (=) seguido ({}) donde contendra key:value,.
+
+Propiedades:Las propiedad son la relacion que que tienen las clave y valores.
+
+Métodos: Las funciones dentro de un objeto son llamados Métodos y estos pueden ser usados tal cual como se usan las funciones.
+
+Bucle `for…in`: Este bucle se usa para iterar las propiedades de un objeto, este itera atraves de cada clave hasta recorrer todas, su sintaxis es la palabra reservada For entre parentesis la se declara la variable valor seguido de in y el nombre del objeto.
+
+Notación de puntos vs notación de corchetes: se usan estas notaciones para poder accceder a la propiedades de un objeto una atraves (.) punto y otra ([]), se nombra el objeto seguido de "." o "[]" y la propiedad.
