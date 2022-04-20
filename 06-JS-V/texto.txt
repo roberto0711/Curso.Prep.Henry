@@ -1,0 +1,2 @@
+PROTOTYPE: Los prototype son propiedades que tienen los objetos, los cuales se pueden usar en cada instanciacion de objetos 
+ _Constructors_ (de Clases): un constructor de una clase es un objeto que tiene propiedades de instancias para nuevos objetos este no devuelve nada.
