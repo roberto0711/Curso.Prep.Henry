@@ -1,0 +1,1 @@
+Funciones Callback: Se llama Calleback a pasar una funcion a otra funcion.
